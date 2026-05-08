@@ -131,16 +131,18 @@ export default function PricingSection() {
                   )}
                 </div>
               </div>
-
-              <button
-                className={`w-full py-3 rounded-lg font-semibold transition-all mb-8 ${
+              <a>
+                href="https://forms.gle/J5weiFcEqUa4CS8B7"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={`w-full py-3 rounded-lg font-semibold transition-all mb-8 block text-center ${
                   plan.popular
                     ? 'bg-blue-600 text-white hover:bg-blue-700 shadow-lg shadow-blue-600/50'
                     : 'border border-white/20 text-white hover:bg-white/10'
                 }`}
               >
                 Get started
-              </button>
+              </a>
 
               <div className="space-y-4">
                 {plan.features.map((feature, j) => (
