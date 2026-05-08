@@ -131,7 +131,7 @@ export default function PricingSection() {
                   )}
                 </div>
               </div>
-              <a>
+              <a
                 href="https://forms.gle/J5weiFcEqUa4CS8B7"
                 target="_blank"
                 rel="noopener noreferrer"
