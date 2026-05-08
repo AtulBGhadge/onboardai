@@ -62,13 +62,13 @@ export default function Navbar() {
             )}
           </button>
           <a
-            href="#"
+            href="https://forms.gle/J5weiFcEqUa4CS8B7"
             className="hidden sm:block px-4 py-2 text-white border border-white/20 rounded-full hover:bg-white/10 transition-all text-sm"
           >
             Sign in
           </a>
           <a
-            href="#"
+            href="https://forms.gle/J5weiFcEqUa4CS8B7"
             className="px-6 py-2 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-all text-sm font-medium shadow-lg shadow-blue-600/50 hover:shadow-blue-600/70"
           >
             Get early access
