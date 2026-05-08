@@ -29,7 +29,7 @@ export default function FinalCTA() {
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
-          href="#"
+          href="https://forms.gle/J5weiFcEqUa4CS8B7"
           className="inline-block px-8 py-4 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-all shadow-lg shadow-blue-600/50 hover:shadow-blue-600/70"
         >
           Get started free
