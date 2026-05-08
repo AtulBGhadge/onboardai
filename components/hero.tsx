@@ -61,19 +61,19 @@ export default function Hero() {
           className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12"
         >
           <a
-            href="https://forms.gle/J5weiFcEqUa4CS8B7"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="px-8 py-4 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-all shadow-lg shadow-blue-600/50 hover:shadow-blue-600/70"
-          >
+                        href="https://forms.gle/J5weiFcEqUa4CS8B7"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-8 py-4 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-all shadow-lg shadow-blue-600/50 hover:shadow-blue-600/70"
+                      >
             Start free — no credit card
           </a>
           <a
-            href="https://forms.gle/J5weiFcEqUa4CS8B7"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="px-8 py-4 border border-white/20 text-white rounded-lg font-semibold hover:bg-white/5 transition-all flex items-center gap-2"
-          >
+                        href="https://forms.gle/J5weiFcEqUa4CS8B7"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-8 py-4 border border-white/20 text-white rounded-lg font-semibold hover:bg-white/5 transition-all flex items-center gap-2"
+                      >
             <Play className="w-4 h-4" />
             See a live demo
           </a>
